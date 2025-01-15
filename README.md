@@ -44,4 +44,4 @@ Version 1.0
 
 ## Recursos adicionales
 
-- Enlace al repositorio en GitHub: [Repositorio en GitHub](https://github.com/pipilla/MaquetacionFLEX_Practica01c).
+- Enlace al repositorio en GitHub: [Repositorio en GitHub](https://github.com/pipilla/MaquetacionGRID_Practica01).
